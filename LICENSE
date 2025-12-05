@@ -1,0 +1,299 @@
+License Agreement for SOT MOE Application
+اتفاقية الترخيص لتطبيق فريق التنظيم الطلابي
+
+================================================================================
+
+© 2025 Student Organization Team (SOT)
+جميع الحقوق محفوظة لفريق التنظيم الطلابي
+
+================================================================================
+
+PROPRIETARY AND CONFIDENTIAL
+سري وحصري
+
+This application and all associated materials, including but not limited to source code,
+documentation, designs, and assets are the exclusive property of the Student Organization
+Team (SOT) and are protected by copyright and intellectual property laws.
+
+هذا التطبيق وجميع المواد المرتبطة به، بما في ذلك على سبيل المثال لا الحصر الكود المصدري،
+والتوثيق، والتصاميم، والأصول، هي ملكية حصرية لفريق التنظيم الطلابي وتحميها قوانين الملكية
+الفكرية وحقوق التأليف والنشر.
+
+================================================================================
+
+TERMS AND CONDITIONS
+الشروط والأحكام
+
+1. RESTRICTIONS ON USE | قيود الاستخدام
+   ─────────────────────────────────────
+
+   1.1 Without the express written permission of SOT, you may NOT:
+   بدون الحصول على إذن كتابي صريح من فريق التنظيم الطلابي، يُحظر عليك:
+
+   • Copy, reproduce, or duplicate any part of this application
+     نسخ أو إعادة إنتاج أي جزء من هذا التطبيق
+
+   • Modify, adapt, or create derivative works
+     تعديل أو تكييف أو إنشاء أعمال مشتقة
+
+   • Distribute, publish, or transmit the application
+     توزيع أو نشر أو نقل التطبيق
+
+   • Reverse engineer, decompile, or disassemble the code
+     إجراء الهندسة العكسية أو فك التجميع
+
+   • Remove or alter any copyright, trademark, or proprietary notices
+     إزالة أو تعديل أي إشعارات حقوق التأليف أو العلامات التجارية
+
+   • Use for commercial purposes without authorization
+     الاستخدام لأغراض تجارية بدون إذن
+
+
+2. PERMITTED USE | الاستخدام المسموح به
+   ──────────────────────────────────
+
+   2.1 You may use this application solely for:
+   يمكنك استخدام هذا التطبيق فقط لـ:
+
+   • Internal team operations and management
+     العمليات الداخلية لإدارة الفريق
+
+   • Authorized members of the Student Organization Team
+     الأعضاء المصرحين من فريق التنظيم الطلابي
+
+   • Non-commercial educational and organizational purposes
+     الأغراض التعليمية والتنظيمية غير التجارية
+
+   • Student support and engagement
+     دعم الطلاب والمشاركة
+
+
+3. INTELLECTUAL PROPERTY | الملكية الفكرية
+   ──────────────────────────────────────
+
+   3.1 All intellectual property rights in this application, including but not
+       limited to:
+   جميع حقوق الملكية الفكرية في هذا التطبيق، بما في ذلك على سبيل المثال لا الحصر:
+
+   • Source code and algorithms
+     الكود المصدري والخوارزميات
+
+   • User interface and design
+     واجهة المستخدم والتصميم
+
+   • Database structures and content
+     هياكل وحتويات قاعدة البيانات
+
+   • Documentation and technical materials
+     التوثيق والمواد التقنية
+
+   • Brand names and trademarks
+     الأسماء والعلامات التجارية
+
+   Are exclusively owned by SOT.
+   هي ملكية حصرية لفريق التنظيم الطلابي.
+
+   3.2 Firebase Integration:
+       • Firebase services are subject to Google's Terms of Service
+       • خدمات Firebase خاضعة لشروط خدمة Google
+
+       • Google Sign-In is governed by Google's policies
+       • Google Sign-In تحكمه سياسات Google
+
+
+4. CONFIDENTIALITY | السرية
+   ─────────────────────────
+
+   4.1 You agree to maintain the confidentiality of:
+   توافق على الحفاظ على سرية:
+
+   • Source code and technical implementation
+     الكود المصدري والتنفيذ التقني
+
+   • Database credentials and API keys
+     بيانات الاعتماد ومفاتيح API
+
+   • Business logic and algorithms
+     المنطق والخوارزميات
+
+   • User data and personal information
+     بيانات المستخدم والمعلومات الشخصية
+
+   4.2 You may not disclose these materials to any unauthorized party.
+   لا يمكنك الكشف عن هذه المواد لأي طرف غير مصرح.
+
+
+5. SECURITY AND DATA PROTECTION | الأمان وحماية البيانات
+   ────────────────────────────────────────────────────
+
+   5.1 You acknowledge that this application handles sensitive data:
+   تعترف بأن هذا التطبيق يتعامل مع بيانات حساسة:
+
+   • User authentication information
+     معلومات مصادقة المستخدم
+
+   • Personal and profile data
+     البيانات الشخصية والملف الشخصي
+
+   • Team and event information
+     معلومات الفريق والفعاليات
+
+   5.2 You agree to implement and maintain appropriate security measures.
+   توافق على تنفيذ والحفاظ على تدابير الأمان المناسبة.
+
+   5.3 Firebase and Cloud Services Terms apply to all data stored remotely.
+   شروط Firebase والخدمات السحابية تنطبق على جميع البيانات المخزنة عن بُعد.
+
+
+6. NO WARRANTY | عدم الضمان
+   ──────────────────────────
+
+   6.1 This application is provided "AS IS" without any warranties, express or
+       implied.
+   يتم توفير هذا التطبيق "كما هو" بدون أي ضمانات صريحة أو ضمنية.
+
+   6.2 SOT does not warrant that:
+   فريق التنظيم الطلابي لا يضمن أن:
+
+   • The application will be error-free
+     سيكون التطبيق خالياً من الأخطاء
+
+   • The application will meet your requirements
+     سيلبي التطبيق متطلباتك
+
+   • The application will be uninterrupted
+     سيكون التطبيق مستمراً دون انقطاع
+
+   • Any defects will be corrected
+     سيتم تصحيح أي عيوب
+
+
+7. LIABILITY LIMITATION | تحديد المسؤولية
+   ─────────────────────────────────────
+
+   7.1 In no event shall SOT be liable for:
+   في أي حال من الأحوال لن يكون فريق التنظيم الطلابي مسؤولاً عن:
+
+   • Direct, indirect, incidental, or consequential damages
+     الأضرار المباشرة أو غير المباشرة أو العرضية أو الناتجة
+
+   • Loss of data or revenue
+     فقدان البيانات أو الإيرادات
+
+   • Business interruption
+     انقطاع الأعمال
+
+   • Any other damages arising from the use or inability to use the application
+     أي أضرار أخرى ناشئة عن استخدام أو عدم القدرة على استخدام التطبيق
+
+   7.2 This limitation applies even if SOT has been advised of the possibility
+       of such damages.
+   ينطبق هذا التحديد حتى لو تم إخطار فريق التنظيم الطلابي بإمكانية هذه الأضرار.
+
+
+8. TERMINATION | الإنهاء
+   ────────────────────
+
+   8.1 SOT may terminate this license at any time without notice.
+   يمكن لفريق التنظيم الطلابي إنهاء هذا الترخيص في أي وقت بدون إشعار.
+
+   8.2 Upon termination, you must:
+   عند الإنهاء، يجب عليك:
+
+   • Cease all use of the application
+     إيقاف جميع استخدامات التطبيق
+
+   • Destroy all copies in your possession
+     تدمير جميع النسخ في حوزتك
+
+   • Return or destroy all confidential information
+     إرجاع أو تدمير جميع المعلومات السرية
+
+
+9. COMPLIANCE | الامتثال
+   ───────────────────────
+
+   9.1 You agree to comply with all applicable laws and regulations.
+   توافق على الامتثال لجميع القوانين واللوائح المعمول بها.
+
+   9.2 Specific compliance requirements:
+   متطلبات الامتثال المحددة:
+
+   • GDPR (General Data Protection Regulation)
+   • All local and national data protection laws
+     جميع قوانين حماية البيانات المحلية والوطنية
+
+   • Firebase Terms of Service
+   • Google Services Terms
+
+
+10. MODIFICATIONS TO LICENSE | تعديلات على الترخيص
+    ───────────────────────────────────────────────
+
+    10.1 SOT may modify this license at any time.
+    يمكن لفريق التنظيم الطلابي تعديل هذا الترخيص في أي وقت.
+
+    10.2 Continued use of the application constitutes acceptance of modifications.
+    الاستمرار في استخدام التطبيق يشكل قبولاً للتعديلات.
+
+
+11. CONTACT INFORMATION | معلومات التواصل
+    ──────────────────────────────────────
+
+    For licensing inquiries or permissions:
+    للاستفسارات أو الحصول على إذن:
+
+    Organization: Student Organization Team (SOT)
+    Email: [Your Email Address]
+    Location: [Your Location]
+
+    لا تحاول الاستخدام التجاري أو النشر بدون الحصول على موافقة كتابية صريحة.
+
+
+================================================================================
+
+ACKNOWLEDGMENTS | شكر وتقدير
+────────────────────────────
+
+This application uses the following third-party services and libraries:
+
+• Google Firebase (Firebase Auth, Firestore, Storage)
+• Google Sign-In
+• Flutter and Dart SDK
+• Various open-source packages from pub.dev
+
+All third-party services are subject to their respective terms and licenses.
+
+
+================================================================================
+
+DISPUTE RESOLUTION | حل النزاعات
+────────────────────────────────
+
+1. Any disputes shall be governed by the laws of [Your Country/Region]
+   أي نزاعات تخضع لقوانين [دولتك/منطقتك]
+
+2. Disputes shall be resolved through negotiation in good faith
+   سيتم حل النزاعات من خلال التفاوض بحسن نية
+
+3. If negotiation fails, disputes may be submitted to arbitration or courts
+
+
+================================================================================
+
+LAST UPDATED: December 5, 2025
+آخر تحديث: 5 ديسمبر 2025
+
+================================================================================
+
+By accessing, downloading, installing, or using this application, you
+acknowledge that you have read this license, understand its terms, and agree
+to be bound by all provisions herein.
+
+بالوصول إلى أو تحميل أو تثبيت أو استخدام هذا التطبيق، فإنك تقر بأنك قرأت
+هذا الترخيص وتفهم شروطه وتوافق على الالتزام بجميع أحكامه.
+
+If you do not agree with these terms, do not use this application.
+إذا كنت لا توافق على هذه الشروط، فلا تستخدم هذا التطبيق.
+
+================================================================================

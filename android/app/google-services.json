@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "499628468004",
+    "project_id": "sot-moe-app",
+    "storage_bucket": "sot-moe-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499628468004:android:afe6eec8b0fbbbbaa5b5b1",
+        "android_client_info": {
+          "package_name": "com.the_sot.earth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499628468004-rng43ef2rt0j6hlcgpk5gs77b7cbadd7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.the_sot.earth",
+            "certificate_hash": "f2667f8d0687ff891b7df0f16349297e0f2353b4"
+          }
+        },
+        {
+          "client_id": "499628468004-76qnf57n7iqedmbh3h52o52ef448cakl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdunR1GU4pyeSKv2b3vbMpYSI1gwZzDb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499628468004-76qnf57n7iqedmbh3h52o52ef448cakl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "499628468004-jk881js03b3ko879emgnuof2s3gven4m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.the-sot.earth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

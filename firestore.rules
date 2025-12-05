@@ -1,0 +1,39 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // Helper functions
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+    
+    function isOwner(userId) {
+      return isAuthenticated() && request.auth.uid == userId;
+    }
+    
+    function isValidUserProfile() {
+      return request.resource.data.keys().hasAll(['displayName', 'email', 'settings']) &&
+             request.resource.data.displayName is string &&
+             request.resource.data.email is string &&
+             request.resource.data.settings is map;
+    }
+    
+    // Users collection - users can only read/write their own profile
+    match /users/{userId} {
+      allow read: if isOwner(userId);
+      allow create: if isOwner(userId) && isValidUserProfile();
+      allow update: if isOwner(userId) && 
+                       (request.resource.data.diff(resource.data).affectedKeys()
+                        .hasOnly(['displayName', 'phoneNumber', 'photoURL', 'settings', 'updatedAt']));
+      allow delete: if false; // Users cannot delete their profiles
+    }
+    
+    // Profile pictures storage rules reference
+    match /profile_pictures/{userId} {
+      allow read: if true; // Public read access to profile pictures
+      allow write: if isOwner(userId) && 
+                      request.resource.size < 5 * 1024 * 1024 && // Max 5MB
+                      request.resource.contentType.matches('image/.*'); // Only images
+    }
+  }
+}
